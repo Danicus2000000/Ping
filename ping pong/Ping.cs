@@ -16,7 +16,7 @@ namespace ping_pong
         public static int speed_left = 4;//sets speed to 4
         public static int speed_top = 4;
         public static bool leaderboard_entered = false;
-        public static bool soundon = false;
+        public static bool soundon { get { return false; } set { } }
         public Ping()
         {
             InitializeComponent();
