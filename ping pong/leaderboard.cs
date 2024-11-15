@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Data.OleDb;
 using System.Windows.Forms;
 
-namespace ping_pong
+namespace Ping
 {
     public partial class leaderboard : Form
     {

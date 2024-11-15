@@ -1,4 +1,4 @@
-﻿namespace ping_pong
+﻿namespace Ping
 {
     partial class Ping
     {
